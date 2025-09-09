@@ -71,7 +71,7 @@ We use **Google Cloud Console / Cloud Shell** to set up Gmail API access.
    - User type: External  
    - Add test users (your Gmail address)  
 5. Create **OAuth Client ID**:  
-   - Type: *Web Application*  
+   - Type: *Chromium Extension*  
    - Authorized Redirect URI (important):  
      ```
      https://cpflhjagocchmjpngmpdnaeekbinmjem.chromiumapp.org/
